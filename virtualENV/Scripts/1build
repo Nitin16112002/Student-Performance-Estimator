@@ -1,0 +1,8 @@
+#!E:\Krish_Naik\Student_Performance_Estimator\virtualENV\python.exe
+
+import sys
+
+from onebuild.main import main
+
+if __name__ == '__main__':
+    sys.exit(main())
