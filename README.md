@@ -1,2 +1,3 @@
-Student Performance Estimator Project
-Github_Name->MLProject
+	Predicts the future performance of students based on certain features like 
+1. scores scored in different subjects
+2. parental level of education.
