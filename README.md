@@ -136,9 +136,3 @@ This project aims to estimate student performance using various regression model
 - **Stacking Models:** Combining multiple regressors may enhance predictive power.
 
 ---
-
-## How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/Student_Performance_Estimator.git
-   cd Student_Performance_Estimator
